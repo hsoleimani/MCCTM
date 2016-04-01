@@ -22,9 +22,9 @@ pylab.rcParams.update(params)
 #fig, axes = pylab.subplots(nrows=2, ncols=4)
 #fig.tight_layout()
 
-ccn = np.loadtxt('%s_ccn.txt'%dataset)
-slda = np.loadtxt('%s_slda.txt'%dataset)
-dmr = np.loadtxt('%s_dmr.txt'%dataset)
+ccn = np.loadtxt('%s_mcctm.txt'%dataset)
+slda = np.loadtxt('%s_sslda.txt'%dataset)
+dmr = np.loadtxt('%s_cclda.txt'%dataset)
 
 #ind = np.array([1,2,4,6,7,8,9])-1
 ind = np.array([1,2,3,4,5,6,7,8,9])-1
