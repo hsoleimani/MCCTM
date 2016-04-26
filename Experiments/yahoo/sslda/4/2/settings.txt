@@ -1,0 +1,5 @@
+var max iter 20
+var convergence 7e-3
+em max iter 100
+em convergence 7e-3L2 penalty 10.0
+alpha estimate

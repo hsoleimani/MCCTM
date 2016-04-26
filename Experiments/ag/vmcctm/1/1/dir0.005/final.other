@@ -1,0 +1,6 @@
+M 50 
+C 6 
+sigma2 0.001000 
+nu 0.001560 
+num_terms 7623 
+num_docs 23276 
