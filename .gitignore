@@ -2,3 +2,4 @@ Paper/
 PRLetters/*
 !PRLetters/Results/
 *~
+PRLetters/Results/sigma2_meanMarked.py
